@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_item"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <ImageView
+        android:id="@+id/img_poster_movie"
+        android:layout_width="120dp"
+        android:layout_height="170dp"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
+        android:scaleType="centerCrop"
+        android:src="@drawable/img_poster" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toEndOf="@id/img_poster_movie"
+        android:layout_toRightOf="@id/img_poster_movie"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/tv_item_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="@dimen/activity_vertical_margin"
+            android:text="@string/title_text"
+            android:textSize="17sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tv_item_rating"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_item_title"
+            android:layout_marginTop="2dp"
+            android:layout_toRightOf="@id/img_poster_movie"
+            android:text="Rating"
+            android:textSize="16sp" />
+
+        <!--Popularity-->
+        <TextView
+            android:id="@+id/tv_item_popularity"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_item_rating"
+            android:layout_marginTop="5dp"
+            android:layout_toRightOf="@id/img_poster_movie"
+            android:text="Popularity"
+            android:textColor="@color/vote"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_item_overview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="@dimen/activity_vertical_margin"
+            android:maxLines="3"
+            android:text="@string/overview_text"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_item_release_date"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="@dimen/activity_vertical_margin"
+            android:text="@string/release_date"
+            android:textSize="16sp" />
+
+
+    </LinearLayout>
+</RelativeLayout>

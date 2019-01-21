@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyCatalogueMovieUIUX</string>
+    <string name="app_detail">Detail Film</string>
+    <string name="home">Beranda</string>
+    <string name="now_playing">Sedang dimainkan</string>
+    <string name="up_coming">Mendatang</string>
+    <string name="search">Pencarian</string>
+    <string name="language_menu">Ubah Pengaturan Bahasa </string>
+    <string name="hint_edt_movie_search">Masukkan judul film </string>
+    <string name="title_text">Judul</string>
+    <string name="overview_text">Film ini bercerita tentang</string>
+    <string name="release_text">Minggu, 26 Agustus 2018</string>
+    <string name="overview">Ikhtisar</string>
+    <string name="Popularity">Popularitas</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="original_title">Judul Asli</string>
+    <string name="original_language">Bahasa asli</string>
+    <string name="vote">Memilih</string>
+    <string name="vote_is_not_available">Vote tidak tersedia</string>
+    <string name="rating">Peringkat</string>
+    <string name="favorite">FAVORIT</string>
+    <string name="share">BAGIKAN</string>
+    <string name="progress">Memuat.....</string>
+
+</resources>
