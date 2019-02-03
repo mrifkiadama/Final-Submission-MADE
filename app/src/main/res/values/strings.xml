@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MyCatalogueMovieUIUX</string>
+    <string name="app_detail">Movie Details</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="up_coming">Up Coming</string>
+    <string name="search">Search</string>
+    <string name="hint_edt_movie_search">Enter title a movie </string>
+    <string name="title_text">Title</string>
+    <string name="overview">Overview</string>
+    <string name="Popularity">Popularity</string>
+    <string name="overview_text">This movie tells about</string>
+    <string name="release_date">Release Date</string>
+    <string name="original_title">Original Title</string>
+    <string name="original_language">Original Language</string>
+    <string name="vote">Vote</string>
+    <string name="rating">Rating</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">SHARE</string>
+    <string name="remove">Movie Removed!</string>
+    <string name="save">Movie Saved!</string>
+    <string name="appwidget_text">Favorite Movie</string>
+    <string name="empty_text">NO DATA</string>
+
+    <string name="action_notif">Notifications</string>
+    <string name="key_daily_reminder">daily_reminder</string>
+    <string name="daily_reminder_summary">Turn On/Off Daily Reminder</string>
+    <string name="daily_reminder_title">Daily Reminder</string>
+    <string name="key_upcoming_reminder">upcoming_reminder</string>
+    <string name="upcoming_reminder_summary">Turn On/Off Upcoming Reminder</string>
+    <string name="upcoming_reminder_title">Upcoming Reminder</string>
+    <string name="key_setting_locale">setting_locale</string>
+    <string name="locale_summary">Change Languange</string>
+    <string name="locale_title">Language</string>
+    <string name="activated">Activated !</string>
+    <string name="deactivated">Deactivated !</string>
+    <string name="settings">Settings</string>
+    <string name="theme">Theme</string>
+
+</resources>

@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MyCatalogueMovieUIUX</string>
+    <string name="app_detail">Detail Film</string>
+    <string name="now_playing">Sedang dimainkan</string>
+    <string name="up_coming">Mendatang</string>
+    <string name="search">Pencarian</string>
+    <string name="hint_edt_movie_search">Masukkan judul film </string>
+    <string name="title_text">Judul</string>
+    <string name="overview_text">Film ini bercerita tentang</string>
+    <string name="overview">Ikhtisar</string>
+    <string name="Popularity">Popularitas</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="original_title">Judul Asli</string>
+    <string name="original_language">Bahasa asli</string>
+    <string name="vote">Memilih</string>
+    <string name="rating">Peringkat</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">BAGIKAN</string>
+    <string name="remove">Film Dihapus!</string>
+    <string name="save">Film Disimpan!</string>
+    <string name="appwidget_text">Film Favorit</string>
+    <string name="empty_text">Tidak Ada Data</string>
+
+    <string name="action_notif">Notifikasi</string>
+    <string name="key_daily_reminder">Pengingat Harian</string>
+    <string name="daily_reminder_summary">Hidupkan/Matikan Pengingat Harian</string>
+    <string name="daily_reminder_title">Pengingat Harian</string>
+    <string name="key_upcoming_reminder">Pengingat yang Akan Datang</string>
+    <string name="upcoming_reminder_summary">Hidupkan / Matikan Pengingat yang akan Datang</string>
+    <string name="upcoming_reminder_title">Pengingat yang akan datang</string>
+    <string name="key_setting_locale">setting_locale</string>
+    <string name="locale_summary">Ganti Bahasa</string>
+    <string name="locale_title">Bahasa</string>
+    <string name="activated">Aktifkan</string>
+    <string name="deactivated">di NonAktifkan</string>
+    <string name="settings">Pengaturan</string>
+    <string name="theme">Tema</string>
+
+</resources>
